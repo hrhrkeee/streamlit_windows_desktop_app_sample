@@ -1,0 +1,3 @@
+streamlit
+streamlit-desktop-app
+streamlit-image-comparison

@@ -7,9 +7,11 @@ StreamlitのアプリをWindowsのデスクトップアプリとしてexe化す�
 ビルドで生成されるexeファイルをダブルクリックすることで、Streamlitのアプリが起動。
 
 
+![実行例](./assets/readme_example_img.png)
+
 ## 前提
 
-- Windows環境下
+- Windows環境下での実行が必須
 
 
 ## ビルド方法

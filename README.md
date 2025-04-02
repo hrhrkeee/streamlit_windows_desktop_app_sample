@@ -1,0 +1,2 @@
+# streamlit_windows_desktop_app_sample
+StreamlitのアプリをWindowsのデスクトップアプリとしてexe化する方法のサンプル
